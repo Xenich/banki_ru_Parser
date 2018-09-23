@@ -1,0 +1,14 @@
+D:\Projects\GoogleDrive\Programming\C#\banki_ru_Parser\banki_ru_Parser\bin\Debug\banki_ru_Parser.exe.config
+D:\Projects\GoogleDrive\Programming\C#\banki_ru_Parser\banki_ru_Parser\bin\Debug\banki_ru_Parser.exe
+D:\Projects\GoogleDrive\Programming\C#\banki_ru_Parser\banki_ru_Parser\bin\Debug\banki_ru_Parser.pdb
+D:\Projects\GoogleDrive\Programming\C#\banki_ru_Parser\banki_ru_Parser\obj\Debug\banki_ru_Parser.csprojResolveAssemblyReference.cache
+D:\Projects\GoogleDrive\Programming\C#\banki_ru_Parser\banki_ru_Parser\obj\Debug\MainWindow.g.cs
+D:\Projects\GoogleDrive\Programming\C#\banki_ru_Parser\banki_ru_Parser\obj\Debug\App.g.cs
+D:\Projects\GoogleDrive\Programming\C#\banki_ru_Parser\banki_ru_Parser\obj\Debug\banki_ru_Parser_MarkupCompile.cache
+D:\Projects\GoogleDrive\Programming\C#\banki_ru_Parser\banki_ru_Parser\obj\Debug\banki_ru_Parser_MarkupCompile.lref
+D:\Projects\GoogleDrive\Programming\C#\banki_ru_Parser\banki_ru_Parser\obj\Debug\MainWindow.baml
+D:\Projects\GoogleDrive\Programming\C#\banki_ru_Parser\banki_ru_Parser\obj\Debug\banki_ru_Parser.g.resources
+D:\Projects\GoogleDrive\Programming\C#\banki_ru_Parser\banki_ru_Parser\obj\Debug\banki_ru_Parser.Properties.Resources.resources
+D:\Projects\GoogleDrive\Programming\C#\banki_ru_Parser\banki_ru_Parser\obj\Debug\banki_ru_Parser.csproj.GenerateResource.Cache
+D:\Projects\GoogleDrive\Programming\C#\banki_ru_Parser\banki_ru_Parser\obj\Debug\banki_ru_Parser.exe
+D:\Projects\GoogleDrive\Programming\C#\banki_ru_Parser\banki_ru_Parser\obj\Debug\banki_ru_Parser.pdb
